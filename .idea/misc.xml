@@ -4,5 +4,5 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/test-backend-casestudy-module4" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
